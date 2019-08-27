@@ -5,6 +5,6 @@ Recognition of paper currency serial number is of great importance for anti-coun
 
 ## Demo
 <p align="center">
-<img width="1236" height="688" src="assets/papercurrency.gif">
+<img width="865" height="481" src="assets/papercurrency.gif">
 </p>
 
