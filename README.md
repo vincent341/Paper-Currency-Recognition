@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a name="logo"><img src="assets/logo.png" alt="logo" width="1500" height="500"></a>
+  <a name="logo"><img src="assets/logo.png" alt="logo" width="1500" height="400"></a>
   <br>
 </h1>
 
