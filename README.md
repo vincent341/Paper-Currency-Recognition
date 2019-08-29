@@ -7,14 +7,5 @@
 Recognition of paper currency serial number is of great importance for anti-counterfeit and currency tracing and also basic requirements for advanced currency sorter and currency counter. A novel algorithm was proposed to recognise paper currency serial numbers for a public limited company JULONG Co.,Ltd. (stock code 300202). The accuracy of recognition is 99.7% while the time consumption is within 5ms. The proposed algorithm has passed the examination and now runs in the currency sorters of banks both in China and Europe.
 
 ## Demo
-<p align="center">
-<img width="865" height="481" src="assets/papercurrency.gif">
-</p>
-
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/Untitled-Project-aFeFZb">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/Untitled-Project-aFeFZb/embed" width="640" height="360"></iframe>
-        </div>
+[![Watch the video](https://github.com/vincent341/Paper-Currency-Recognition/blob/master/assets/cover.png)](https://drive.google.com/open?id=1ASfM_PXONTG-PAIlUMhYAsQJ3xOiSS8X)
 
